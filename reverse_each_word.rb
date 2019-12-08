@@ -9,7 +9,7 @@ def reverse_each_word(sentence1)
 end
  
  def reverse_each_word(string)
-   string = "Hi "
+   string = "Hi again, just making sure it's reversed!"
   array = string.split(" ")
   test_array = []
   array.collect do|string| #iterate over the array
