@@ -8,7 +8,7 @@ def reverse_each_word(sentence1)
   return_array.join(" ")
 end
  
- def reverse_each_word(string)
+ def reverse_each_word_test(string)
    string = "Hi again, just making sure it's reversed!"
   array = string.split(" ")
   test_array = []
